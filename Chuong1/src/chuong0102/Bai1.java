@@ -9,11 +9,9 @@ package chuong0102;
 import java.util.Scanner;
 public class Bai1 {
 	int var;
-	
 	public void nameMethod() {
 		
 	}
-	
 	public static void main(String[] args) {
 		
 	}
